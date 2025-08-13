@@ -1,0 +1,1 @@
+Esse commit é para deletar o arquivo aula04.zip
